@@ -1,0 +1,5 @@
+hello world
+python programming
+file handling example
+text files in python
+data processing

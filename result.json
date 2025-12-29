@@ -1,0 +1,14 @@
+{
+    "passengers_with_more_than_2_items": [
+        "Ivanenko",
+        "Shevchenko",
+        "Bondar",
+        "Rudenko",
+        "Savchenko"
+    ],
+    "weight_statistics": {
+        "less_than_5kg": 2,
+        "from_5_to_25kg": 5,
+        "more_than_25kg": 3
+    }
+}
